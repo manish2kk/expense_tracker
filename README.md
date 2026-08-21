@@ -12,11 +12,4 @@ Android app that reads bank SMS, tracks credits and debits, and shows a monthly 
 
 SMS inbox access works on **Android** only. Allow SMS permission on first launch.
 
-## Run
-
-```bash
-flutter pub get
-flutter run
-```
-
 Use a physical Android phone. After install, allow SMS access and set your current bank balance from the wallet icon.
